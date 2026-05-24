@@ -181,6 +181,6 @@ Validated the full pipeline end to end:
 
 ## Key Takeaway
 
-This lab demonstrated how a modern SOC can drastically reduce mean time to respond (MTTR) through automation. Without SOAR, a SOC analyst would need to manually look up threat intelligence, create a ticket, and notify the team — a process that can take 30-60 minutes per alert. With the automated pipeline built in this lab, the entire process from detection to analyst notification took under 90 seconds. This mirrors the workflows used in enterprise SOC environments and demonstrates practical experience with the full alert lifecycle: detection, enrichment, case management, and response.
+This lab demonstrated how a modern SOC can drastically reduce mean time to respond (MTTR) through automation. Without SOAR, a SOC analyst would need to manually look up threat intelligence, create a ticket, and notify the team a process that can take 30-60 minutes per alert. With the automated pipeline built in this lab, the entire process from detection to analyst notification took under 90 seconds. This mirrors the workflows used in enterprise SOC environments and demonstrates practical experience with the full alert lifecycle: detection, enrichment, case management, and response.
 
 > **Note:** All Azure resources (Paulo-Wazuh VM, Paulo-TheHive VM, and associated NSG/networking resources) were deallocated after the lab was completed to preserve free trial credits.
